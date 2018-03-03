@@ -1,10 +1,10 @@
-# Experiments with Markov's Model
+# Experiments with Markov's Models
 
 * [News Headlines Generator](https://github.com/SiarheiFedartsou/markov/blob/master/headline_generator.ipynb)
 
 ## Author
 
-* **[Siarhei Fedartsou](mailto:siarhei.fedartsou@gmail.com)**
+* [Siarhei Fedartsou](mailto:siarhei.fedartsou@gmail.com)
 
 ## License
 
