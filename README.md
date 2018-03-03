@@ -1,6 +1,6 @@
 # Experiments with Markov's Model
 
-* [News Headlines Generator](https://github.com/SiarheiFedartsou/markov/blob/master/headline_generator.ipynd)
+* [News Headlines Generator](https://github.com/SiarheiFedartsou/markov/blob/master/headline_generator.ipynb)
 
 ## Author
 
